@@ -13,6 +13,6 @@ This project, based on a school template provided by FIM UHK, was extended by me
 ![prgfscreen](https://github.com/user-attachments/assets/0f2f5980-719d-4fab-ab36-f3c24dd81719)
 
 ## Getting Started
-Download the project and run the Main class.
+Download the project and run the Main class. (OtherCodes/java3DRenderer/c03_pise_stepan/src/Main)
 
 Movement = wsad, Switch Projection = P, WireFrame = O, Translation = hold T + arrows, Rotation = hold R + arrows, Scale = E + arrows, Select active obj = 1,2,3,4
